@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["François Benaiteau"]
   s.email       = ["francois@chugulu.com"]
-  s.homepage    = ""
+  s.homepage    = "https://netbe@github.com/ChuguluGames/mobile-notification-system.git"
   s.summary     = %q{Manage notifications for iphone }
   s.description = %q{Generate and send notifications via APNS or/and RSS feed}
 
